@@ -3,7 +3,8 @@ Basketball Quiz
 # Basketball Quiz Game
 
 ## Description
-This is a simple Java quiz game that tests knowledge of basketball terms.
+The Basketball Quiz Game is a Java-based console application designed to test a user's knowledge of basketball rules. The program is built using a logic flow where it presents a series of multiple-choice questions to the user. It utilizes the java.util.Scanner class to capture keyboard input and evaluates answers using the String.equalsIgnoreCase() method to ensure user input is accepted regardless of capitalization. The application tracks a running score and provides a final summary to the user upon completion.
+
 
 ## Features
 - Multiple choice questions
