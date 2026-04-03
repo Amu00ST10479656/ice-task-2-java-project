@@ -1,17 +1,21 @@
 
 package basketballquizgame;
 
+import java.util.Scanner;
+
 /**
  *
  * @author amuke
  */
 public class BasketballQuizGame {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Scanner input = new Scanner(System.in);
+        int score = 0;
+        
+        System.out.printlin("Welcome to Basketball Knowledge Quiz!");
+        System.out.println("Answer the questions by choosing A, B, C, or D\n");
+        
     }
-    
-}
+
+   
