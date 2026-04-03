@@ -13,9 +13,13 @@ public class BasketballQuizGame {
         Scanner input = new Scanner(System.in);
         int score = 0;
         
-        System.out.printlin("Welcome to Basketball Knowledge Quiz!");
+        System.out.println("Welcome to Basketball Knowledge Quiz!");
         System.out.println("Answer the questions by choosing A, B, C, or D\n");
         
+        System.out.println("Press start to begin...");
+        input.nextLine();
     }
+    
+}
 
    
